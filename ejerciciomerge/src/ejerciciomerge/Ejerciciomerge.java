@@ -18,6 +18,7 @@ public class Ejerciciomerge {
         int numero1=0;
         int numero2=3;
         int numero3=5;
+        int numero4=7;//commir en la paralela de la bug , mientras añado el numero 4 , la rama bug ya tiene un numero 4
     }
     
 }
