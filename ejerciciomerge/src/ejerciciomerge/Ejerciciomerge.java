@@ -17,6 +17,7 @@ public class Ejerciciomerge {
     public static void main(String[] args) {
         int numero1=0;
         int numero2=3;
+        int numero3=4;
     }
     
 }
