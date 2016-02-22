@@ -18,6 +18,7 @@ public class Ejerciciomerge {
         int numero1=0;
         int numero2=3;
         int numero3=5;
+        int nuemro4;//commit bug
     }
     
 }
